@@ -6,7 +6,7 @@ Jenner analytics join STDM clinical demographics with adverse events using a big
 
     Too long to pose, see
     https://github.com/rogerjdeangelis/jnr-jenner-analytics-join-clinical-demographics-with-adverse-events-using-a-bigint-patient-number
-
+    https://github.com/rogerjdeangelis/jnr-alpha-jenner-analytics-extract-postgresql-table-with-bigint-and-process-bigint-with-datastep
     Jenner analytics join STDM clinical demographics with adverse events using a bigint patient number
 
     The join was done with a sas dataset merge, not passthru. Parquet files are
